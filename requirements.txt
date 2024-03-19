@@ -1,0 +1,5 @@
+flask
+requests
+PyMySQL
+flask_cors
+configparser
